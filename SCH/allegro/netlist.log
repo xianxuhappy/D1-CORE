@@ -1,0 +1,7 @@
+{ Using PSTWRITER 16.6.0 d001Feb-24-2022 at 18:25:40 }
+
+#1 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U26: SCHEMATIC1, 01POWER_TREE (5.10, 2.70).
+#2 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D29: SCHEMATIC1, 01POWER_TREE (11.80, 4.70).
+#3 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J24: SCHEMATIC1, 09CONNECTOR (4.20, 1.60).
+#4 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J25: SCHEMATIC1, 09CONNECTOR (9.70, 1.60).
+#5 ERROR(ORCAP-36018): Aborting Netlisting... Please correct the above errors and retry.

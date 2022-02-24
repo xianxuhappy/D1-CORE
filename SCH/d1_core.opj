@@ -1,0 +1,207 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "f:\cadence_lib\my_olb.olb"
+        (Type "Schematic Library")))
+    (File ".\d1_core.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File "F:\HANXU_DOC\SCH\D1_CORE\SCH\D1_CORE.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (NoModify)
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\d1_core.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 40x2"
+      (FullPartName "HEADER 40x2.Normal")
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 50x2"
+      (FullPartName "HEADER 50x2.Normal")
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (EA3059C
+      (FullPartName "EA3059C.Normal")
+      (LibraryName "F:\CADENCE_LIB\MY_OLB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RY1303
+      (FullPartName "RY1303.Normal")
+      (LibraryName "F:\CADENCE_LIB\MY_OLB.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\d1_core.dsn")
+      (Path "Design Resources" ".\d1_core.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "f:\cadence_lib\my_olb.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\d1_core.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 866"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1113 78 643")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "23 177")
+        (Zoom "153"))
+      (Path "F:\CADENCE_LIB\MY_OLB.OLB")
+      (Package "EA3059C"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1380 52 617")
+        (Scroll "230 219")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "F:\HANXU_DOC\SCH\D1_CORE\SCH\D1_CORE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02SYS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1406 78 643")
+        (Scroll "-24 104")
+        (Zoom "81")
+        (Occurrence "/"))
+      (Path "F:\HANXU_DOC\SCH\D1_CORE\SCH\D1_CORE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03DRAM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1432 104 669")
+        (Scroll "5836 1509")
+        (Zoom "416")
+        (Occurrence "/"))
+      (Path "F:\HANXU_DOC\SCH\D1_CORE\SCH\D1_CORE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "04GPIO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1458 130 695")
+        (Scroll "-116 0")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path "F:\HANXU_DOC\SCH\D1_CORE\SCH\D1_CORE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "05AUDIO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1484 156 721")
+        (Scroll "0 73")
+        (Zoom "104")
+        (Occurrence "/"))
+      (Path "F:\HANXU_DOC\SCH\D1_CORE\SCH\D1_CORE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "06VIDEO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1510 182 747")
+        (Scroll "-24 0")
+        (Zoom "81")
+        (Occurrence "/"))
+      (Path "F:\HANXU_DOC\SCH\D1_CORE\SCH\D1_CORE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "07USB"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1536 208 773")
+        (Scroll "-24 184")
+        (Zoom "81")
+        (Occurrence "/"))
+      (Path "F:\HANXU_DOC\SCH\D1_CORE\SCH\D1_CORE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01POWER_TREE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 1295 260 825")
+        (Scroll "0 0")
+        (Zoom "108")
+        (Occurrence "/"))
+      (Path "F:\HANXU_DOC\SCH\D1_CORE\SCH\D1_CORE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "08WIFI"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1035 0 565")
+        (Scroll "630 635")
+        (Zoom "162")
+        (Occurrence "/"))
+      (Path "F:\HANXU_DOC\SCH\D1_CORE\SCH\D1_CORE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "09CONNECTOR")))
+  (ISPCBBASICLICENSE "false"))
