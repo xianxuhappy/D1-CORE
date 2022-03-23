@@ -1,7 +1,36 @@
-{ Using PSTWRITER 16.6.0 d001Feb-24-2022 at 18:25:40 }
+{ Using PSTWRITER 17.2.0 d001Mar-20-2022 at 11:10:42 }
 
-#1 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U26: SCHEMATIC1, 01POWER_TREE (5.10, 2.70).
-#2 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D29: SCHEMATIC1, 01POWER_TREE (11.80, 4.70).
-#3 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J24: SCHEMATIC1, 09CONNECTOR (4.20, 1.60).
-#4 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J25: SCHEMATIC1, 09CONNECTOR (9.70, 1.60).
-#5 ERROR(ORCAP-36018): Aborting Netlisting... Please correct the above errors and retry.
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.3" ignored for U6: SCHEMATIC1, 07USB (10.60, 1.70). Connecting pin to net "N4530222".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.N6" ignored for U2: SCHEMATIC1, 04GPIO (2.30, 10.00). Connecting pin to net "PE16".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.B15" ignored for U2: SCHEMATIC1, 05AUDIO (3.80, 0.70). Connecting pin to net "LINEOUTL_P".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.C12" ignored for U2: SCHEMATIC1, 07USB (2.40, 2.00). Connecting pin to net "TP_X1".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.A11" ignored for U2: SCHEMATIC1, 07USB (2.40, 2.00). Connecting pin to net "TP_X2".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.B11" ignored for U2: SCHEMATIC1, 07USB (2.40, 2.00). Connecting pin to net "TP_Y1".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.C11" ignored for U2: SCHEMATIC1, 07USB (2.40, 2.00). Connecting pin to net "TP_Y2".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.C15" ignored for U2: SCHEMATIC1, 05AUDIO (3.80, 0.70). Connecting pin to net "LINEOUTL_N".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.E16" ignored for U2: SCHEMATIC1, 05AUDIO (3.80, 0.70). Connecting pin to net "MBIAS".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.D19" ignored for U2: SCHEMATIC1, 05AUDIO (3.80, 0.70). Connecting pin to net "MIC_IN1_C_N".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.D20" ignored for U2: SCHEMATIC1, 05AUDIO (3.80, 0.70). Connecting pin to net "MIC_IN1_C_P".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.D15" ignored for U2: SCHEMATIC1, 05AUDIO (3.80, 0.70). Connecting pin to net "MIC_IN2_C_N".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.E15" ignored for U2: SCHEMATIC1, 05AUDIO (3.80, 0.70). Connecting pin to net "MIC_IN2_C_P".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.B14" ignored for U2: SCHEMATIC1, 05AUDIO (3.80, 0.70). Connecting pin to net "LINEOUTR_P".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.C14" ignored for U2: SCHEMATIC1, 05AUDIO (3.80, 0.70). Connecting pin to net "LINEOUTR_N".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U8.24" ignored for U8: SCHEMATIC1, 08WIFI (2.80, 1.00). Connecting pin to net "N421423".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.M6" ignored for U2: SCHEMATIC1, 04GPIO (2.30, 10.00). Connecting pin to net "PE17".
+#18 WARNING(ORCAP-36006): Part Name "TFCARD-SHORT-8P_TFCARD-SHORT-8P_TFCARD-SHORT-8P" is renamed to "TFCARD-SHORT-8P_TFCARD-SHORT-8P".
+#19 WARNING(ORCAP-36006): Part Name "USB-C-16P_USB-C-16P-SMD_USB-C-16P" is renamed to "USB-C-16P_USB-C-16P-SMD_USB-C-1".
+#20 WARNING(ORCAP-36006): Part Name "HEADER 40X2_BTB-80P-0P8MM-MALE_HEADER 40X2" is renamed to "HEADER 40X2_BTB-80P-0P8MM-MALE_".
+#21 WARNING(ORCAP-36006): Part Name "D1-BGA337-0518_BGA337P65B1300_1300H125_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10)_D1-BGA337-0518" is renamed to "D1-BGA337-0518_BGA337P65B1300_1".
+#22 WARNING(ORCAP-36006): Part Name "MT41K512M16_DDR3-BGA96_MT41K512M16" is renamed to "MT41K512M16_DDR3-BGA96_MT41K512".
+#23 WARNING(ORCAP-36006): Part Name "TFT-0P96-160X80-8P_FPC8-0P5MM_TFT-0P96-160X80-8P" is renamed to "TFT-0P96-160X80-8P_FPC8-0P5MM_T".
+#24 WARNING(ORCAP-36006): Part Name "LPW5206_SOT23-5-0P95-2P8-1P6X2P9MM_LPW5206" is renamed to "LPW5206_SOT23-5-0P95-2P8-1P6X2P".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... F:\PCB_PROJECT\D1-CORE\SCH\allegro/pstchip.dat
+
+Loading... F:\PCB_PROJECT\D1-CORE\SCH\allegro/pstchip.dat
+
+Loading... F:\PCB_PROJECT\D1-CORE\SCH\allegro/pstchip.dat
+
+Loading... F:\PCB_PROJECT\D1-CORE\SCH\allegro/pstxnet.dat
+packaging the design view...

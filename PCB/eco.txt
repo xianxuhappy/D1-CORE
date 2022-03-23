@@ -1,0 +1,166 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  F:/PCB_PROJECT/D1-CORE/PCB/D1_CORE.brd                                      |
+|                                                    Sun Mar 20 11:10:52 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  FEL          pins MOVED FROM this net (to net name listed on right)
+                                 J15.26          590.552 351.575
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 J15.14          401.575 351.575
+                                                                    MIC_IN3_C_N
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HBIAS        pins MOVED FROM this net (to net name listed on right)
+                                 J15.16          433.071 351.575
+                                                                    MIC_IN1_C_P
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HPOUTFB      pins MOVED FROM this net (to net name listed on right)
+                                 J15.22          527.559 351.575
+                                                                          MBIAS
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HPOUTL       pins MOVED FROM this net (to net name listed on right)
+                                 J15.18          464.567 351.575
+                                                                    MIC_IN1_C_N
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HPOUTR       pins MOVED FROM this net (to net name listed on right)
+                                 J15.20          496.063 351.575
+                                                                          HBIAS
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HP_DET       pins MOVED FROM this net (to net name listed on right)
+                                 J15.24          559.055 351.575
+                                                                            FEL
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LINEINL      pins MOVED FROM this net (to net name listed on right)
+                                 J15.2           212.599 351.575
+                                                                         HPOUTR
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LINEINR      pins MOVED FROM this net (to net name listed on right)
+                                 J15.4           244.095 351.575
+                                                                        HPOUTFB
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LINEOUTL_N   pins MOVED FROM this net (to net name listed on right)
+                                 J15.6           275.591 351.575
+                                                                         HPOUTL
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LINEOUTL_P   pins MOVED FROM this net (to net name listed on right)
+                                 J15.8           307.087 351.575
+                                                                    MIC_IN2_C_P
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LINEOUTR_N   pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  F:/PCB_PROJECT/D1-CORE/PCB/D1_CORE.brd                                      |
+|                                                    Sun Mar 20 11:10:52 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J15.10          338.583 351.575
+                                                                    MIC_IN2_C_N
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LINEOUTR_P   pins MOVED FROM this net (to net name listed on right)
+                                 J15.12          370.079 351.575
+                                                                    MIC_IN3_C_P
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MBIAS        pins MOVED FROM this net (to net name listed on right)
+                                 J15.3           244.095 199.607
+                                                                         HP_DET
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MIC_IN1_C_N  pins MOVED FROM this net (to net name listed on right)
+                                 J15.5           275.591 199.607
+                                                                     LINEOUTR_P
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MIC_IN1_C_P  pins MOVED FROM this net (to net name listed on right)
+                                 J15.7           307.087 199.607
+                                                                     LINEOUTR_N
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MIC_IN2_C_N  pins MOVED FROM this net (to net name listed on right)
+                                 J15.9           338.583 199.607
+                                                                     LINEOUTL_P
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MIC_IN2_C_P  pins MOVED FROM this net (to net name listed on right)
+                                 J15.11          370.079 199.607
+                                                                     LINEOUTL_N
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MIC_IN3_C_N  pins MOVED FROM this net (to net name listed on right)
+                                 J15.13          401.575 199.607
+                                                                        LINEINL
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MIC_IN3_C_P  pins MOVED FROM this net (to net name listed on right)
+                                 J15.15          433.071 199.607
+                                                                        LINEINR
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_5V_IN    pins MOVED FROM this net (to net name listed on right)
+                                 C1.1            -241.00 -80.000
+                                                                        HDMI_5V
+                                 C2.1            -70.000  31.000
+                                                                        HDMI_5V
+                                 C3.1            -241.00 -160.00
+                                                                        HDMI_5V
+                                 C4.1             77.000 -168.00
+                                                                        HDMI_5V
+                                 C78.2           -420.00 -189.00
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  F:/PCB_PROJECT/D1-CORE/PCB/D1_CORE.brd                                      |
+|                                                    Sun Mar 20 11:10:52 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                        HDMI_5V
+                                 D3.1            -50.000  13.390
+                                                                        HDMI_5V
+                                 J4.1             80.000 -230.00
+                                                                        HDMI_5V
+                                 J16.29          653.544 -902.75
+                                                                        HDMI_5V
+                                 J16.31          685.040 -902.75
+                                                                        HDMI_5V
+                                 R9.1            -359.00 -80.000
+                                                                        HDMI_5V
+                                 R10.1           115.000 -128.00
+                                                                        HDMI_5V
+                                 R14.2           -240.00  50.000
+                                                                        HDMI_5V
+                                 U1.3            -74.161 -35.319
+                                                                        HDMI_5V
+                                 U1.8            -166.68 -88.469
+                                                                        HDMI_5V
+                                 U1.11           -166.68 -147.53
+                                                                        HDMI_5V
+                                 U1.20            -1.319 -147.53
+                                                                        HDMI_5V
+                                 U1.23            -1.319 -88.469
+                                                                        HDMI_5V
+                                 U6.5            -367.40 -185.11
+                                                                        HDMI_5V
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  F:/PCB_PROJECT/D1-CORE/PCB/D1_CORE.brd                                      |
+|                                                    Sun Mar 20 11:10:52 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      38                                        |
+|                                                                              |
+|   Total ECO changes reported:      38                                        |
+|------------------------------------------------------------------------------|
