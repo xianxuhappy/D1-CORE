@@ -78,7 +78,8 @@
     ("Allegro Setup Part Type Length" "31")
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
-    ("Allegro Netlist User Defined Property" "FALSE"))
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs"
     (File ".\d1_core.drc"
       (Type "Report"))
@@ -136,8 +137,7 @@
          "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" "f:\pcb_project\d1-core\sch\d1_core.dsn"
-         "SCHEMATIC1" "06VIDEO"))
+      (Select "Design Resources" "f:\pcb_project\d1-core\sch\d1_core.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -147,8 +147,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1375 52 617")
-        (Scroll "0 367")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1375 52 617")
+        (Scroll "0 211")
         (Zoom "162")
         (Occurrence "/"))
       (Path "F:\PCB_PROJECT\D1-CORE\SCH\D1_CORE.DSN")
@@ -158,7 +158,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1401 78 643")
-        (Scroll "0 167")
+        (Scroll "0 57")
         (Zoom "100")
         (Occurrence "/"))
       (Path "F:\PCB_PROJECT\D1-CORE\SCH\D1_CORE.DSN")
@@ -167,9 +167,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 260 1583 260 825")
-        (Scroll "898 332")
-        (Zoom "162")
+        (Placement "44 0 1 -1 -1 -8 -31 260 1583 260 825")
+        (Scroll "-22 0")
+        (Zoom "81")
         (Occurrence "/"))
       (Path "F:\PCB_PROJECT\D1-CORE\SCH\D1_CORE.DSN")
       (Schematic "SCHEMATIC1")
@@ -178,8 +178,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1375 52 617")
-        (Scroll "153 574")
-        (Zoom "104")
+        (Scroll "-112 0")
+        (Zoom "52")
         (Occurrence "/"))
       (Path "F:\PCB_PROJECT\D1-CORE\SCH\D1_CORE.DSN")
       (Schematic "SCHEMATIC1")
@@ -188,7 +188,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1427 104 669")
-        (Scroll "909 254")
+        (Scroll "898 254")
         (Zoom "162")
         (Occurrence "/"))
       (Path "F:\PCB_PROJECT\D1-CORE\SCH\D1_CORE.DSN")
@@ -198,7 +198,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1453 130 695")
-        (Scroll "-113 19")
+        (Scroll "-113 0")
         (Zoom "108")
         (Occurrence "/"))
       (Path "F:\PCB_PROJECT\D1-CORE\SCH\D1_CORE.DSN")
@@ -218,8 +218,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 234 1557 234 799")
-        (Scroll "1849 359")
-        (Zoom "432")
+        (Scroll "-113 0")
+        (Zoom "108")
         (Occurrence "/"))
       (Path "F:\PCB_PROJECT\D1-CORE\SCH\D1_CORE.DSN")
       (Schematic "SCHEMATIC1")

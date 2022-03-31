@@ -58,3 +58,7 @@
 2022-03-20T11:10:52 ===> "F:/PCB_PROJECT/D1-CORE/SCH/allegro/pstxnet.dat"
 2022-03-20T11:10:52 ===> "F:/PCB_PROJECT/D1-CORE/SCH/allegro/pstxprt.dat"
 2022-03-20T11:10:52 ===> "F:/PCB_PROJECT/D1-CORE/SCH/allegro/pstdmlmodels.dat"
+2022-03-31T21:47:41 ===> "F:/PCB_PROJECT/D1-CORE/SCH/allegro/pstchip.dat"
+2022-03-31T21:47:41 ===> "F:/PCB_PROJECT/D1-CORE/SCH/allegro/pstxnet.dat"
+2022-03-31T21:47:41 ===> "F:/PCB_PROJECT/D1-CORE/SCH/allegro/pstxprt.dat"
+2022-03-31T21:47:41 ===> "F:/PCB_PROJECT/D1-CORE/SCH/allegro/pstdmlmodels.dat"
